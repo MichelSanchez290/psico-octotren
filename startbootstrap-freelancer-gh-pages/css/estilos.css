@@ -1,0 +1,93 @@
+/*Alumna: Michelle Sanchez Miranda, Grupo: 3F, Matricula: UTP0138682, Carrera: Tecnologias de la Informacion y Comunicación,
+Fecha de elaboracion: 28/06/2020, Nombre del Profesor: Paulo Daniel Vazquez Mora;*/
+
+
+
+/*color a texto,fuente en h2*/
+
+h2{
+	color:#A00;
+	font-family:Verdana, Calibri, sans-serif;
+	font-size:24px;
+	}
+
+/*color a el titulo*/
+em{
+	color: #471529;
+}
+/*para aliniar a la izquierda el texto de la imagen 1*/
+#a ul {
+	display:inline-block;
+	text-align: left;
+}
+#a div{
+	display: block;
+	text-align: center;
+}
+/*alinear tabla y darle estilo*/
+#about td{
+	border: 5px solid black;
+	text-align: center;
+}
+
+#about table{
+	border-collapse: collapse;
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: #8a7a72;
+}
+#about m{
+	color:#471529;
+	font-family: cursive, Arial;
+}
+
+
+/*color de botones*/
+.btn-primary{
+  background-color:#471529!important;
+}
+
+/*pseudoclase;Cuando doy click en un boton, se cambia de color*/
+.btn-primary:hover {
+	background-color:#159a80!important;
+}
+
+/*color de encabezado*/
+.bg-primary {
+  background-color:#5a1969!important ;
+}
+
+/*color a la hora de poner el cursor en la imagen se pone un color*/
+.portfolio .portfolio-item .portfolio-item-caption {
+  background-color: rgba(71, 21, 41)!important;
+}
+
+/*pseudoclase*/
+a.bg-primary:hover, a.bg-primary:focus,
+button.bg-primary:hover,
+button.bg-primary:focus {
+  background-color:#d930ff !important ;
+}
+
+
+.bg-secondary {
+  background-color: #471529 !important;
+}
+
+/*pseudoclase; Cuando esta en una seccion ya seleccionaada cambia de color*/
+#mainNav .navbar-nav > li.nav-item > a.nav-link.active:active, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:focus, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:hover {
+    background: #d930ff !important;
+}
+/*pseudoclase*/
+a.bg-primary:hover, a.bg-primary:focus,
+button.bg-primary:hover,
+button.bg-primary:focus {
+  background-color:#d930ff !important ;
+}*/
+
+
+  :root {
+  	--teal: #650e80 !important;
+  }
+ 
